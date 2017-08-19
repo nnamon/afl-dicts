@@ -21,3 +21,31 @@ command_isrc="ISRC"
 command_title="TITLE"
 command_performer="PERFORMER"
 command_songwriter="SONGWRITER"
+
+# Modes
+
+mode_audio="AUDIO"
+mode_karaoke="CDG"
+mode_1cooked="MODE1/2048"
+mode_1raw="MODE1/2352"
+mode_2form1="MODE2/2048"
+mode_2form2="MODE2/2324"
+mode_2formmix="MODE2/2336"
+mode_2raw="MODE2/2352"
+mode_2data1="CDI/2336"
+mode_2data2="CDI/2352"
+
+# Filetypes
+
+filetype_little="BINARY"
+filetype_big="MOTOROLA"
+filetype_aiff="AIFF"
+filetype_wave="WAVE"
+filetype_mp3="MP3"
+
+# Flags
+
+flag_dcp="DCP"
+flag_4ch="4CH"
+flag_pre="PRE"
+flag_scms="SCMS"
