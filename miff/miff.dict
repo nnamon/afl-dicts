@@ -11,8 +11,8 @@ sigils_colorclose=")"
 sigils_percent="%"
 sigils_colorcomma=","
 sigils_colon=":"
-sigils_formfeed="\f"
-sigils_newline="\n"
+sigils_formfeed="\x0c"
+sigils_newline="\x0a"
 sigils_ctrlz="\x1a"
 
 # Background Color
@@ -106,7 +106,7 @@ matte_false="False"
 
 # Montage
 header_montage="montage"
-montage_directory_newline="\n"
+montage_directory_newline="\x0a"
 montage_directory_null="\x00"
 montage_x="x"
 
