@@ -10,6 +10,10 @@ sigils_coloropen="rgb("
 sigils_colorclose=")"
 sigils_percent="%"
 sigils_colorcomma=","
+sigils_colon=":"
+sigils_formfeed="\f"
+sigils_newline="\n"
+sigils_ctrlz="\x1a"
 
 # Background Color
 header_background_color="background-color"
@@ -182,4 +186,6 @@ header_version="version"
 
 # Opaque
 header_opaque="opaque"
+
+
 
